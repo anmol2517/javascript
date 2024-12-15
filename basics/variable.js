@@ -1,26 +1,21 @@
-//  alert (2 + 5)  -->>  using node.js, not browser
+const accountId = 2510
+let accountEmail = "anmol@google.com"
+var accountPassword = "12345"
+accountCity = "Pune"
+let accountState;
 
-console.log(3 + 4)
+// accountId = 2 // not allowed
 
-let name = "anmoL"
-let age = 25
-let isLoggedIn = false
-let state;
+
+accountEmail = "aum@mail.com"
+accountPassword = "98765"
+accountCity = "Noida"
+
+console.log(accountId);
 
 /*
-Primitives Datatypes
-
-    bigint => large amount of numbers
-    string => ""
-    boolean => true/false
-    null => standalone value / it is empty 
-    undefined => variable declare but value not assigned
-    symbol => unique
-
+Prefer not to use var
+because of issue in block scope and functional scope
 */
 
-// objects
-
-console.log(typeof undefined);   // -->>  undefined
-console.log(typeof null);        //  -->>  object
-
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
