@@ -1,6 +1,6 @@
 # javascript
 
-# Learn To Study >> Type Conversion
+## Learn To Study >> Type Conversion
 https://tc39.es/ecma262/#sec-type-conversion
 
 >>  In JavaScript, null is a primitive value. However, typeof returns "object".
