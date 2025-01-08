@@ -13,6 +13,8 @@ https://tc39.es/ecma262/#sec-typeof-operator
 
 
 ## Learn To Study >> String Declaration 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+
 The old method of concatenation (`name + repoCount + " Value"`) is less readable, so we use template literals with backticks (`) and `${}` for cleaner, modern string interpolation.
 
 ```
