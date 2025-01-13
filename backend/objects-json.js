@@ -13,5 +13,8 @@ testing api web - random user generator
 or 
 json formatter 
 
+api url - https://randomuser.me/api/
+paste the browser or access and testing the data
+
 */
 
