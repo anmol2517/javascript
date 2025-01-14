@@ -120,5 +120,3 @@ function returnSecondValue(getArray){
 }
 cosole.log(returnSecondValue(newArray))        // both are show second value 
 console.log(returnSecondValue([2010, 2011, 2018, 2021, 2023]))     // both are show second value 
-
-
